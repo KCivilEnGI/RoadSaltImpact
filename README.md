@@ -2,7 +2,7 @@
 Course: GIS Application | UW-Madison<br>
 Instructor: A-Xing Zhu<br>
 Teaching Assistant: Yuying Chen
-Group Members: Grace Harvey, Laura Flucke, Kuang-Cheng Cheng, Noah Sticha
+Group Members: Grace Harvey, Kuang-Cheng Cheng, Laura Flucke, Noah Sticha
 ## Methods/Steps
 Classified by Attribute: Classified Road based on road type, which is directly related to the salt use intensity
 ![Road Classification](./img/RoadClassification.png)
