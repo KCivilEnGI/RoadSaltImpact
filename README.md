@@ -8,7 +8,8 @@ Group Members: Grace Harvey, Kuang-Cheng Cheng, Laura Flucke, Noah Sticha
 Classified by Attribute: Classified Road based on road type, which is directly related to the salt use intensity
 ![Road Classification](./img/RoadClassification.png)
 D8 flow method: Create Drainage Basin to understand the underground water behavior
-![Drainage Basin Creation](./img/DrainageBasin.png)<br>
+![Drainage Basin Creation](./img/DrainageBasin.png)
+
 Zonal statistics: Overlay two layers to calculate the Salt Intensity
 ![Salt Intensity Calculation](./img/SaltIntensity.png)
 ## Result
