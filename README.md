@@ -4,6 +4,11 @@ Instructor: A-Xing Zhu<br>
 Teaching Assistant: Yuying Chen<br>
 Software: ArcGIS Pro<br>
 Group Members: Grace Harvey, Kuang-Cheng Cheng, Laura Flucke, Noah Sticha
+
+## Project Background Information
+This project is a real-world project referred by the course instructor through contact with staff at <a href='https://univercity.wisc.edu/'>UniverCity Alliance</a>.<br>
+This repository documents the evaluations that several classmates and I did for a transportation planner working at the Wausau Metropolitan Planning Organization According to information from the planner, this project failed many times to get a usable result. He thinks that the heavy road salt used on the roads in winter may potentially bring environmental contamination when the salts are melted and go into the underground water. Thus, he wants to entrust us to use GIS technology to analyze whether there will actually be environmental impacts as he is concerned, and at the same time, he hopes we can show the degree and location of the impact with a map at the end
+
 ## Methods/Steps
 Classified by Attribute: Classified Road based on road type, which is directly related to the salt use intensity
 ![Road Classification](./img/RoadClassification.png)
@@ -17,8 +22,5 @@ Zonal statistics: Overlay two layers to calculate the Salt Intensity
 ## My contribution to this project
 I was responsible for using GIS functions to create the drainage basin for Marathon County as part of this project. I worked alongside our professor and TA, conducting research on the documentation of ArcGIS Pro to complete the task.
 
-## Project Background Information
-This project is a real-world project referred by the course instructor through contact with staff at <a href='https://univercity.wisc.edu/'>UniverCity Alliance</a>.<br>
-This repository documents the evaluations that several classmates and I did for a transportation planner working at the Wausau Metropolitan Planning Organization According to information from the planner, this project failed many times to get a usable result. He thinks that the heavy road salt used on the roads in winter may potentially bring environmental contamination when the salts are melted and go into the underground water. Thus, he wants to entrust us to use GIS technology to analyze whether there will actually be environmental impacts as he is concerned, and at the same time, he hopes we can show the degree and location of the impact with a map at the end
 ## More Information
 For acquiring more details and information, check out <a href="GEOG 578 Salt Use Final Report.pdf">our report</a> in the repository.
